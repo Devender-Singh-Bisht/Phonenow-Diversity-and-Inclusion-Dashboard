@@ -11,6 +11,7 @@ This Power BI dashboard provides insights into the diversity and inclusion metri
    - **Top 5 Nations by Employee Count**: Lists the top 5 countries of employee origin, segmented by gender.
    - **Age Group Distribution**: Analyzes employee age demographics, categorized by gender.
 
+
 ![Main Dashboard](https://github.com/Devender-Singh-Bisht/Phonenow-Diversity-and-Inclusion-Dashboard/blob/main/Diversity%20and%20Inclusion%20dash%20Page1.png) 
 
 ---
@@ -20,6 +21,7 @@ This Power BI dashboard provides insights into the diversity and inclusion metri
    - **Gender Distribution of New Hires**: Pie chart showing the male-female ratio of recent hires.
    - **Age Group and Department Distribution**: Shows age and department-wise distribution of new hires, with gender segmentation.
    - **Top 5 Nations New Hire Count**: Highlights the top 5 countries represented among new hires, segmented by gender.
+
 
 ![New Hires Dashboard](https://github.com/Devender-Singh-Bisht/Phonenow-Diversity-and-Inclusion-Dashboard/blob/main/Diversity%20and%20Inclusion%20dash%20Page2.png)  
 
@@ -34,6 +36,7 @@ This Power BI dashboard provides insights into the diversity and inclusion metri
    - **Top 5 Nations Promotion Counts**: Highlights the top 5 countries with the highest promotion counts, segmented by gender.
    - **Department Distribution of Promoted**: Breakdown of promotions by department and gender.
 
+
 ![Promoted Dashboard](https://github.com/Devender-Singh-Bisht/Phonenow-Diversity-and-Inclusion-Dashboard/blob/main/Diversity%20and%20Inclusion%20dash%20Page3.png)
 
 ---
@@ -44,6 +47,7 @@ This Power BI dashboard provides insights into the diversity and inclusion metri
    - **Age Group Distribution of Leavers**: Breakdown of leavers by age group and gender.
    - **Department Distribution of Leavers**: Visual representation of the departments most affected by turnover.
    - **Top 5 Nations Leaver Counts**: Lists the top 5 countries of origin for leavers, segmented by gender.
+
 
 ![Leavers Dashboard](https://github.com/Devender-Singh-Bisht/Phonenow-Diversity-and-Inclusion-Dashboard/blob/main/Diversity%20and%20Inclusion%20dash%20Page4.png)  
 
